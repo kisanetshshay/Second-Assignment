@@ -1,0 +1,14 @@
+.page button {
+    width: 24%;
+    color: rgb(255, 255, 255);
+    padding: 10px 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color:mediumaquamarine;
+    border:solid 1px ;
+margin-left: 650px;
+font-size: 20px;
+
+}body{
+    background-image: url(image/pink-abstract-design_1182-697.jpg);
+}
